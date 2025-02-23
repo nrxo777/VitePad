@@ -5,6 +5,8 @@
 body {
   margin: 0;
   margin-top: 25vh;
+  background-color: #212121;
+  color: azure;
 }
 
 h1, h2 {
