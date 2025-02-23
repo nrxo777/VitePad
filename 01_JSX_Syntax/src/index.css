@@ -7,8 +7,9 @@ body {
   margin-top: 25vh;
   background-color: #212121;
   color: azure;
-}
-
-h1, h2 {
   text-align: center;
+
+  & h3{
+    color: antiquewhite;
+  }
 }
