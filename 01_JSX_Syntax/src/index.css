@@ -1,0 +1,12 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  margin-top: 25vh;
+}
+
+h1, h2 {
+  text-align: center;
+}
