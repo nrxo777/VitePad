@@ -1,5 +1,5 @@
 <h1 style="text-align: center; color: wheat">VITEPAD</h1>
-Welcome to VITEPAD, a fast and modern React application built with Vite! This project is designed to help you get started with React development using Vite's blazing-fast build tool.
+Hey there! 👋 Here are my notes on Vite with React JS. 📝✨
 <h2 style="color: wheat">Prerequisites</h2>
 Before you begin, ensure you have the following installed:
 
