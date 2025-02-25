@@ -15,6 +15,20 @@ body {
   
   & span {
       color: tomato;
-    }
+  }
+
+  & input {
+    border: 1px solid tomato;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+    font-weight: 600;
+  }
+
+
+  & #submit:hover{
+    background-color: tomato;
+    color: aliceblue;
+  }
 }
 
