@@ -3,7 +3,7 @@ const Person = (props) => {
   return (
     <>
       <h2>
-        Name: {props.name}, Age: {props.age}
+        Name: {props.name}, Age: {props.age}, and {props.children}.
       </h2>
     </>
   );
